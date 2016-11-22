@@ -1,5 +1,7 @@
 reducerabinpairs
 ================
+[![Build Status](https://travis-ci.org/44534/reducerabinpairs.svg?branch=master)](https://travis-ci.org/44534/reducerabinpairs)
+
 A module to reduce the acceptance condition of a deterministic Rabin automaton.
 
 Features
